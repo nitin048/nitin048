@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Nitin! 👋
 
-<!--
-**nitin048/nitin048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Full-Stack Developer & Senior Software Engineer** dedicated to solving real-world problems through clean code and scalable architecture. 
 
-Here are some ideas to get you started:
+By day, I architect enterprise-level applications using the .NET ecosystem; by night, I dive into open-source projects, modern frontend tech stacks, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Backend:** .NET Core | ASP.NET Core | C# | Web APIs
+* **Frontend:** React.js | TypeScript | JavaScript | HTML5 & CSS3
+* **Databases:** SQL Server | Database Optimization
+* **Cloud & DevOps:** Azure | Git | Pre-commit Hooks | Vim
+
+---
+
+### 🚀 What I'm Up To
+* 📚 **Building in Public:** Documenting my daily coding consistency and mastering Data Structures & Algorithms (C++).
+* 🧪 **Experimenting:** Creating React applications to sharpen my frontend skills and exploring AI engineering architectures.
+* 🎓 **Continuous Growth:** Always refining my craft, pursuing advanced technical certifications, and studying system design patterns.
+
+---
+
+### 🤝 Let's Connect
+* **LinkedIn:** [Nitin Pradhan on LinkedIn](https://linkedin.com/in/nitin001)
+* **X (Twitter):** [@nitinpradhan48](https://x.com/nitinpradhan48)
+* **Mail:** nitinpradhan48@gmail.com
