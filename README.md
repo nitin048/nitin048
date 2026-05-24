@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Amaan%20Ahmad&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Tech%20Builder%20|%20Web3%20Explorer%20|%20AI%20Innovator&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Nitin%20Pradhan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Tech%20Builder%20|%20Problem%20Solver%20|%20Code%20Master&descAlignY=51&descAlign=50)
 ### 🧭 **Quick Navigation**
 
 [🏠 About](#-about-me) • [💻 Tech Stack](#-tech-arsenal--expertise) • [💼 Experience](#-professional-journey) • [🏆 Projects](#-featured-projects--achievements) • [📊 Stats](#-github-analytics--insights) • [🤝 Connect](#-lets-connect--collaborate) • [💭 Philosophy](#-philosophy--vision)
