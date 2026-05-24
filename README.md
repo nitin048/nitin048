@@ -22,7 +22,7 @@
 <p align="center">
   <a href="mailto:nitinpradhan48@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Let's_Connect-D14836?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/nitin001"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" /></a>
-  <a href="tel:+917795275103"><img src="https://img.shields.io/badge/📱_Phone-+91--7*9527***3-25D366?style=for-the-badge" /></a>
+  <a href="tel:+917*9527***3)"><img src="https://img.shields.io/badge/📱_Phone-+91--7*9527***3-25D366?style=for-the-badge" /></a>
   <a href="https://github.com/nitin048"><img src="https://img.shields.io/badge/�_GitHub-Follow-181717?style=for-the-badge" /></a>
 </p>
 
@@ -396,27 +396,27 @@ const nitin = {
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitin048&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=nitin048&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nitin048&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=nitin048&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
 
 ### 📊 **Contribution Activity Graph**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitin048&theme=react-dark&hide_border=true&area=true&point=FF6B35&line=36BCF7&color=FFFFFF&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitin048&theme=react-dark&hide_border=true&area=true&point=FF6B35&line=36BCF7&color=FFFFFF&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%">
 
 <b>📊 Detailed Analytics</b>
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitin048&theme=radical" alt="Profile Summary" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitin048&theme=radical" alt="Profile Summary" width="100%">
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitin048&theme=radical" alt="Repos per Language" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitin048&theme=radical" alt="Most Commit Language" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitin048&theme=radical" alt="Repos per Language" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitin048&theme=radical" alt="Most Commit Language" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitin048&theme=radical" alt="Stats" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nitin048&theme=radical&utcOffset=5.5" alt="Productive Time" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitin048&theme=radical" alt="Stats" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nitin048&theme=radical&utcOffset=5.5" alt="Productive Time" width="48%">
 </p>
 
 ### 💻 **Weekly Development Breakdown**
@@ -481,7 +481,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░    
 [![Email](https://img.shields.io/badge/Email-nitinpradhan48%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitinpradhan48@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitin%20Pradhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin001)
 [![GitHub](https://img.shields.io/badge/GitHub-nitin048-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitin048)
-[![Phone](https://img.shields.io/badge/Phone-+91--7795275103-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917*9527***3)
+[![Phone](https://img.shields.io/badge/Phone-+91--7*9527***3)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917*9527***3)
 [![Location](https://img.shields.io/badge/Location-Pune%2C%20India-FF6B35?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Pune)
 
 ### 💼 **Open to Opportunities**
@@ -662,7 +662,7 @@ Professionalism and craftsmanship come from discipline and practice."</i><br><br
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn" width="100%">
 
 ### 💖 **Thank you for visiting!**
 
