@@ -396,8 +396,8 @@ const nitin = {
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitin048&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=nitin048&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nitin048&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=nitin048&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 ### 📊 **Contribution Activity Graph**
@@ -481,7 +481,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░    
 [![Email](https://img.shields.io/badge/Email-nitinpradhan48%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitinpradhan48@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitin%20Pradhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin001)
 [![GitHub](https://img.shields.io/badge/GitHub-nitin048-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitin048)
-[![Phone](https://img.shields.io/badge/Phone-+91--7795275103-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917795275103)
+[![Phone](https://img.shields.io/badge/Phone-+91--7795275103-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917*9527***3)
 [![Location](https://img.shields.io/badge/Location-Pune%2C%20India-FF6B35?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Pune)
 
 ### 💼 **Open to Opportunities**
