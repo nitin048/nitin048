@@ -1,7 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Nitin%20Pradhan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Sr.%20Software%20Engineer%20|%20Full-Stack%20.NET%20%26%20React%20|%20Enterprise%20Architect&descAlignY=51&descAlign=50)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Amaan%20Ahmad&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Tech%20Builder%20|%20Web3%20Explorer%20|%20AI%20Innovator&descAlignY=51&descAlign=50)
 ### 🧭 **Quick Navigation**
 
 [🏠 About](#-about-me) • [💻 Tech Stack](#-tech-arsenal--expertise) • [💼 Experience](#-professional-journey) • [🏆 Projects](#-featured-projects--achievements) • [📊 Stats](#-github-analytics--insights) • [🤝 Connect](#-lets-connect--collaborate) • [💭 Philosophy](#-philosophy--vision)
@@ -23,7 +22,7 @@
 <p align="center">
   <a href="mailto:nitinpradhan48@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Let's_Connect-D14836?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/nitin001"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" /></a>
-  <a href="tel:+917795275103"><img src="https://img.shields.io/badge/📱_Phone-+91--7795275103-25D366?style=for-the-badge" /></a>
+  <a href="tel:+917795275103"><img src="https://img.shields.io/badge/📱_Phone-+91--7*9527***3-25D366?style=for-the-badge" /></a>
   <a href="https://github.com/nitin048"><img src="https://img.shields.io/badge/�_GitHub-Follow-181717?style=for-the-badge" /></a>
 </p>
 
