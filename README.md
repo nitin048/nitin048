@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=140&lines=Senior+Software+Engineer+%F0%9F%9A%80;Full-Stack+.NET+%26+React+Developer+%F0%9F%A7%A0;7%2B+Years+Building+Enterprise+Solutions;Microservices+%26+Cloud+Architect+%E2%98%81%EF%B8%8F;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=150&lines=Senior+Software+Engineer+%F0%9F%9A%80;Full-Stack+.NET+%26+React+Developer+%F0%9F%A7%A0;7%2B+Years+Building+Enterprise+Solutions;Microservices+%26+Cloud+Architect+%E2%98%81%EF%B8%8F;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nitin048&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
