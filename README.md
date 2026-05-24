@@ -396,8 +396,8 @@ const nitin = {
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitin048&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=nitin048&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitin048&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=nitin048&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 ### 📊 **Contribution Activity Graph**
