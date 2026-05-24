@@ -10,7 +10,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Sr.+Software+Engineer+%F0%9F%9A%80;Full-Stack+.NET+%26+React+Developer+%F0%9F%A7%A0;7%2B+Years+Building+Enterprise+Solutions;Microservices+%26+Cloud+Architect+%E2%98%81%EF%B8%8F;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
-
+</br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nitin048&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/nitin048?label=Followers&style=for-the-badge&color=36BCF7" alt="GitHub Followers" />
@@ -156,7 +156,7 @@ const nitin = {
 <div align="center">
 
 ### **Backend Technologies**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![GraphQl](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -196,7 +196,7 @@ const nitin = {
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
 ### **Programming Languages**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
