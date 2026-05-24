@@ -653,6 +653,12 @@ Professionalism and craftsmanship come from discipline and practice."</i><br><br
 </div>
 
 ---
+<div align="center">
+
+### 🐍 **Contribution Snake**
+![Contribution Snake](https://raw.githubusercontent.com/0xme/0xme/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 <div align="center">
 
